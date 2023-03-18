@@ -18,7 +18,7 @@
     "        msg['Subject'] = 'REPORT CAPONE'\n",
     "        msg['From'] = 'reportcapone@gmail.com'\n",
     "        msg['To'] = 'reportcapone@gmail.com'\n",
-    "        password = 'noyllfyfcpshprrr'\n",
+    "        password = '************'\n",
     "        msg.add_header('Content-Type', 'text/html')\n",
     "        msg.set_payload(corpo_email)\n",
     "        s = smtplib.SMTP('smtp.gmail.com: 587')\n",
