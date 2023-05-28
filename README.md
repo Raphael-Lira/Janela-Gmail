@@ -9,3 +9,4 @@ Felizmente, essa janela de report foi usada apenas por mim, já que o sistema qu
 
 Em resumo, esse projeto é uma janela de report integrado com o Gmail que faz parte de um sistema que criei para uma empresa específica. Ele possui uma interface moderna e é muito fácil de usar, permitindo que os usuários relatem bugs de forma rápida e eficiente. Espero que este projeto possa ser útil para outras pessoas e empresas que desejam integrar a funcionalidade de reporte de bugs em seus próprios sistemas.x
 x
+x
